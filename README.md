@@ -25,7 +25,7 @@
 
 - 📫 How to reach me <a href="mailto=rakibulinux@gmail.com" target="_blank"><b>rakibulinux@gmail.com</b></a>
   <a href="https://github.com/rakibulinux" target="blank"><img align="right" width="200" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" alt="Working on Laptop"/></a>
-- ⚡ Intaresting fact **During peak hour my productivity increase at the high level**.
+- ⚡ Interesting fact **During peak hour my productivity increase at the high level**.
 - ⚡ Fun fact **I'm good with people**.
 
 <h2 align="left">🌐 Connect with me on:</h2>
