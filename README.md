@@ -1,5 +1,4 @@
-﻿<a href="https://github.com/rakibulinux/rakibulinux/"><img src="https://i.ibb.co/Bny37DX/rakibulinux.jpg" alt="Header-Image" align="center" width="1000" height="300"/></a>
-
+﻿<a href="https://github.com/rakibulinux/rakibulinux/"><img src="https://i.ibb.co/xXfM6VZ/Rakibulinux-Linked-In-Banner.png" alt="Rakibulinux" align="center" width="1000" height="300"/></a>
 <h1 align="center"><i>Hi 👋, I'm MD RAKIBUL ISLAM RAKIB</i></h1>
 <h3 align="center"><i>A MERN Full-Stack Web Developer & Linux System Admin from <b>Bangladesh</b></i> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh Flag" height="40" width="50" /></h3>
 <a href="https://portfolio.rakibulinux.com/" target="blank"><img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/></a>
