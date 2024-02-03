@@ -1,16 +1,16 @@
 ﻿<a href="https://github.com/rakibulinux/rakibulinux/"><img src="https://i.ibb.co/xXfM6VZ/Rakibulinux-Linked-In-Banner.png" alt="Rakibulinux" align="center" width="1000" height="300"/></a>
 <h1 align="center"><i>Hi 👋, I'm MD RAKIBUL ISLAM RAKIB</i></h1>
-<h3 align="center"><i>A MERN Full-Stack Web Developer & Linux System Admin from <b>Bangladesh</b></i> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh Flag" height="40" width="50" /></h3>
+<h3 align="center"><i>I'm a Full-Stack Web Developer, DevOps Engineer & Linux System Admin from <b>Bangladesh</b></i> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh Flag" height="40" width="50" /></h3>
 <a href="https://portfolio.rakibulinux.com/" target="blank"><img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/></a>
 
 <p>
- <a href="https://www.buymeacoffee.com/rakibulinux"><img src="https://camo.githubusercontent.com/9a1a9228dceac612322ceaf869c3e7616a4800682991a5c2d8c10d742f038046/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d53706f6e736f72266d6573736167653d254532253944254134266c6f676f3d47697448756226636f6c6f723d666636396234" alt="Sponsor Me" />
+ <a href="https://www.buymeacoffee.com/rakibulinux"><img src="https://seeklogo.com/images/B/buy-me-a-coffee-logo-F1878A1EB2-seeklogo.com.png" alt="Sponsor Me" />
 </a>
-<a href="https://twitter.com/rakibulinux"><img src="https://camo.githubusercontent.com/0fd1ece90dca71e12cd9f9da1b31dcd86b7ba1f5b49aaa392885d79247c236c2/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f75726c3f7374796c653d736f6369616c2675726c3d68747470732533412532462532466769746875622e636f6d25324672796f2d6d612532466769746875622d70726f66696c652d74726f706879" alt="Tweet" />
+<a href="https://twitter.com/rakibulinux"><img src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" alt="Tweet" />
 </a>
 </p>
 
-- 🔭 I’m currently Working on my **Website** and also making my [**Portfolio**](https://portfolio.rakibulinux.com/) heavy by Learning New Things 💻.
+- 🔭 I’m currently Working on my **Website** and also making my [**Portfolio**](https://www.rakibulinux.com/) heavy by Learning New Things 💻.
 
 - 🌱 I’m currently learning more about **MERN Stack, Blockchain Dev & Courses etc.**
 
@@ -18,7 +18,7 @@
 
 - 📝 You can check out my 👉 <a href="resume.pdf" alt="Resume" target="_blank"><b>Resume</b></a>
 
-- 💬 Ask me about `HTML, CSS, TailWind CSS, Bootstrap, JavaScript, React JS, REST APIs, Node JS, Express JS, MongoDB`.
+- 💬 Ask me about `HTML, CSS, TailWind CSS, Bootstrap, JavaScript, React JS, Next js, Nest Js, REST APIs, Node JS, Express JS, NoSQL, SQL, MongoDB, PostgreSQL, Prisma, Linux, Ubuntu, and DevOps`.
 
 - 📝 I regularly write Blogs on [**Hashnode**](https://rakibulinux.hashnode.dev/) and [Dev](https://dev.to/rakibulinux)
 
@@ -32,7 +32,7 @@
 <a href="https://api.whatsapp.com/send?phone=8801983904080&text=Hey!%2C%20Muhammad%2C%20How%20are%20you%3F" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/whatsapp-3.svg" alt="WhatsApp" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/rakibulinux/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="30" width="40" /></a>
 <a href="https://www.facebook.com/rakibulinux" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rakibulinux/" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" alt="Instagram" height="30" width="40"/></a>
+<a href="https://www.instagram.com/rakibulinux/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="Instagram" height="30" width="40"/></a>
 <a href="https://twitter.com/rakibulinux" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Twitter" height="30" width="40"/></a>
 <a href="https://portfolio.rakibulinux.com/" target="_blank"><img align="center" src ="https://i.ibb.co/GFMcSJF/www.png" alt="My_Portfolio" width="40" height="40"/></a>
 <a href="https://replit.com/@rakibulinux" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="Replit" height="30" width="30" /></a>
@@ -45,7 +45,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" width="40" height="30"/> </a> 
 <!-- <a href="https://www.w3schools.com/sass/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" width="40" height="40"/> </a>  -->
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" alt="tailwind-css" width="40" height="40"/> </a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.png" alt="tailwind-css" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vs-code" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="javascript" width="50" height="50"/> </a> 
@@ -61,7 +61,7 @@
 <!-- <a href="https://simple.wikipedia.org/wiki/C_%28programming_language%29" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="40" height="40"/> </a>  -->
 <!-- <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="python" width="40" height="40"/> </a> -->
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://static.canva.com/web/images/c312071b10daa85e10047f326751843d.svg" alt="Canva" width="40" height="50" /> </a>
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" alt="Canva" width="40" height="50" /> </a>
 <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/premiere-cc.svg" alt="Adobe-Premiere-Pro-CC" width="40" height="40"/> </a> 
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://nextjs-template.vercel.app/vercel.svg" alt="Vercel" width="50" height="50"/></a>
 </p>
