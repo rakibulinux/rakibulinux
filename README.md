@@ -1,12 +1,12 @@
 ﻿<a href="https://github.com/rakibulinux/rakibulinux/"><img src="https://i.ibb.co/xXfM6VZ/Rakibulinux-Linked-In-Banner.png" alt="Rakibulinux" align="center" width="1000" height="300"/></a>
 <h1 align="center"><i>Hi 👋, I'm MD RAKIBUL ISLAM RAKIB</i></h1>
 <h3 align="center"><i>I'm a Full-Stack Web Developer, DevOps Engineer & Linux System Admin from <b>Bangladesh</b></i> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh Flag" height="40" width="50" /></h3>
-<a href="https://portfolio.rakibulinux.com/" target="blank"><img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/></a>
+<a href="https://www.rakibulinux.com/" target="blank"><img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/></a>
 
 <p>
- <a href="https://www.buymeacoffee.com/rakibulinux"><img src="https://seeklogo.com/images/B/buy-me-a-coffee-logo-F1878A1EB2-seeklogo.com.png" alt="Sponsor Me" />
+ <a href="https://www.buymeacoffee.com/rakibulinux"><img src="https://seeklogo.com/images/B/buy-me-a-coffee-logo-F1878A1EB2-seeklogo.com.png" alt="Sponsor Me" height="40" width="40" />
 </a>
-<a href="https://twitter.com/rakibulinux"><img src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" alt="Tweet" />
+<a href="https://twitter.com/rakibulinux"><img src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" alt="Tweet" height="40" width="40" />
 </a>
 </p>
 
