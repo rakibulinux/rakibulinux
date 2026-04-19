@@ -3,6 +3,12 @@
 </a>
 
 <h1 align="center">Hi 👋, I'm MD Rakibul Islam Rakib</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20DevOps-blue" />
+  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-green" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP%20%7C%20DO-orange" />
+  <img src="https://img.shields.io/badge/Architecture-Scalable%20Systems-red" />
+</p>
 <h3 align="center">
 Full-Stack Engineer • DevOps Engineer • Linux System Administrator  
 from Bangladesh 🇧🇩
@@ -124,6 +130,15 @@ I specialize in:
 
 ---
 
+## 🧠 How I Build Systems
+
+- Design for **scalability first** (stateless services, horizontal scaling)  
+- Use **caching layers (Redis)** to reduce DB load  
+- Implement **queue systems** for async processing  
+- Secure systems with **RBAC + JWT + server hardening**  
+- Optimize performance with **profiling & monitoring**  
+- Automate everything via **CI/CD pipelines**  
+
 ## 🧩 Engineering Strengths
 - System Design & Architecture
 - Performance Optimization
@@ -133,11 +148,87 @@ I specialize in:
 
 ---
 
-## 📊 GitHub Stats
+## 🏗️ System Design Examples
+
+### ✔️ 1. Scalable SaaS Architecture
+
+```mermaid
+graph TD
+
+A[Client] --> B[Next.js Frontend]
+B --> C[API Gateway]
+
+C --> D[Auth Service]
+C --> E[Application Service]
+C --> F[Payment Service]
+
+E --> G[(PostgreSQL)]
+E --> H[(Redis Cache)]
+E --> I[(MongoDB)]
+
+C --> J[Message Queue - RabbitMQ Kafka]
+
+J --> K[Worker Services]
+
+K --> L[Email Notifications]
+K --> M[Background Jobs]
+
+C --> N[Docker Containers]
+N --> O[Kubernetes Cluster]
+
+O --> P[Cloud Provider AWS DO]
+```
+### ✔️ 2. Real-Time Chat System (Fixed)
+```mermaid
+graph TD
+
+A[Client App] --> B[Next.js Frontend]
+
+B --> C[WebSocket Server]
+B --> D[REST API]
+
+C --> E[Real Time Engine SocketIO]
+
+D --> F[Backend Node Nest]
+
+F --> G[(PostgreSQL)]
+F --> H[(Redis PubSub)]
+
+F --> I[AI API LLM]
+
+H --> E
+E --> A
+```
+
+### ✔️ 3. API + Cache (Safe Version)
+
+```mermaid
+graph TD
+
+A[Client] --> B[API Server]
+
+B --> C{Cache Hit?}
+
+C -->|Yes| D[Return from Redis]
+C -->|No| E[Query Database]
+
+E --> F[(PostgreSQL)]
+
+F --> G[Store in Redis]
+
+G --> D
+```
+
+---
+## 📊 GitHub Insights
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rakibulinux&show_icons=true&theme=tokyonight" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibulinux&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rakibulinux&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibulinux&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=rakibulinux&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
