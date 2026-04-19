@@ -1,101 +1,172 @@
-﻿<a href="https://github.com/rakibulinux/rakibulinux/"><img src="https://i.ibb.co/xXfM6VZ/Rakibulinux-Linked-In-Banner.png" alt="Rakibulinux" align="center" width="1000" height="300"/></a>
-<h1 align="center"><i>Hi 👋, I'm MD RAKIBUL ISLAM RAKIB</i></h1>
-<h3 align="center"><i>I'm a Full-Stack Web Developer, DevOps Engineer & Linux System Admin from <b>Bangladesh</b></i> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh Flag" height="40" width="50" /></h3>
-<a href="https://www.rakibulinux.com/" target="blank"><img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/></a>
-
-<p>
- <a href="https://www.buymeacoffee.com/rakibulinux"><img src="https://seeklogo.com/images/B/buy-me-a-coffee-logo-F1878A1EB2-seeklogo.com.png" alt="Sponsor Me" height="40" width="40" />
+<a href="https://github.com/rakibulinux/rakibulinux/">
+  <img src="https://i.ibb.co/xXfM6VZ/Rakibulinux-Linked-In-Banner.png" alt="Rakibulinux Banner" width="100%" />
 </a>
-<a href="https://twitter.com/rakibulinux"><img src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" alt="Tweet" height="40" width="40" />
+
+<h1 align="center">Hi 👋, I'm MD Rakibul Islam Rakib</h1>
+<h3 align="center">
+Full-Stack Engineer • DevOps Engineer • Linux System Administrator  
+from Bangladesh 🇧🇩
+</h3>
+
+---
+
+## 🚀 About Me
+
+I’m a **Full-Stack Developer & DevOps Engineer with 5+ years of experience** building scalable applications and managing production infrastructure.
+
+I specialize in:
+- High-performance web applications (React / Next.js)
+- Backend systems (Node.js, Express.js, Nest.js, APIs)
+- DevOps & cloud infrastructure (Docker, Kubernetes, AWS)
+- Linux server management & security
+
+💡 I build **end-to-end systems** — from UI → backend → deployment → scaling.
+
+---
+
+## 🔧 Tech Stack
+
+### 🖥️ Frontend
+- React.js, Next.js, TypeScript, JavaScript  
+- Redux Toolkit, Zustand, RTK Query  
+- Tailwind CSS, ShadCN UI, MUI, Flowbite  
+- Responsive Design (Figma → Production)
+
+### ⚙️ Backend
+- Node.js, Express.js, Nest.js  
+- REST APIs, Prisma ORM  
+- PostgreSQL, MongoDB  
+- Auth (JWT, NextAuth), RBAC  
+- WebSockets (Socket.io)
+
+### ☁️ DevOps & Infrastructure
+- Linux (Ubuntu, CentOS, Red Hat)  
+- Docker, Kubernetes  
+- AWS (EC2, EKS), Azure, GCP, DigitalOcean  
+- CI/CD Pipelines (GitHub Actions, GitLab CI)  
+- Nginx, Server Hardening, Monitoring  
+
+### 🤖 AI & Integrations
+- AI API integrations (LLMs, STT, TTS)  
+- Chatbots & AI features  
+- Image generation & automation tools  
+
+---
+
+## 💼 Professional Experience
+
+### **Full Stack Engineer — NETME**  
+📅 Jul 2024 – Apr 2026  
+- Built features for a multi-region social platform  
+- Developed UI, backend APIs, authentication & event systems  
+- Designed DB schemas & handled deployments  
+- Worked on production environment: **dev.netme.eu**
+
+---
+
+### **Full-Stack Developer — NexStack**  
+📅 Mar 2024 – Jul 2024  
+- Delivered scalable SaaS applications using Next.js & Node.js  
+- Collaborated with cross-functional teams  
+- Managed production deployments using Docker & cloud infra  
+
+---
+
+### **Linux System Administrator — StudiaNova**  
+📅 Aug 2020 – Present  
+- Managed production servers for virtual school platform  
+- Implemented **security hardening, backups & monitoring**  
+- Ensured uptime and performance optimization  
+- Solved real-time server & network issues  
+
+---
+
+## 🧠 Key Projects
+
+### 🔹 AI Platform – Miragic.ai
+- Built AI-powered features: image generation, try-on, STT/TTS  
+- Integrated multiple AI APIs  
+- Optimized frontend performance  
+
+---
+
+### 🔹 Social Platform – NETME
+- Real-time user connection platform  
+- Authentication, profiles, event systems  
+- Production deployment support  
+
+---
+
+### 🔹 AI Chat App – TalkAI
+- Real-time chatbot platform  
+- Improved state management & performance  
+- Integrated AI APIs  
+
+---
+
+### 🔹 Personal Platform (Portfolio + Marketplace)
+🌐 https://www.rakibulinux.com/
+
+- Portfolio + service marketplace system  
+- Stripe payments & user dashboard  
+- Full admin panel  
+
+**Tech:** Next.js, PostgreSQL, Prisma, Stripe, JWT  
+
+---
+
+## 🏆 Leadership
+
+### Team Lead — Blogging Platform
+- Led a team of 6 developers  
+- Built full-stack platform with premium subscriptions  
+- Integrated payments (SSLCOMMERZ)  
+
+---
+
+## 🧩 Engineering Strengths
+- System Design & Architecture
+- Performance Optimization
+- Backend Scalability
+- DevOps & Infrastructure Automation
+- Debugging Complex Production Issues
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rakibulinux&show_icons=true&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibulinux&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 🌍 Portfolio: https://www.rakibulinux.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/rakibulinux/  
+- 🐦 Twitter/X: https://twitter.com/rakibulinux  
+- 🧑‍💻 GitHub: https://github.com/rakibulinux  
+- 📧 Email: rakibulinux@gmail.com  
+
+---
+
+## 💡 What I Bring
+
+- End-to-end system development (Frontend → Backend → DevOps)  
+- Production-grade deployment experience  
+- Strong debugging & problem-solving skills  
+- Experience with global clients  
+
+---
+
+## ☕ Support Me
+
+<a href="https://www.buymeacoffee.com/rakibulinux">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
 </a>
-</p>
 
-- 🔭 I’m currently Working on my **Website** and also making my [**Portfolio**](https://www.rakibulinux.com/) heavy by Learning New Things 💻.
+---
 
-- 🌱 I’m currently learning more about **MERN Stack, Blockchain Dev & Courses etc.**
-
-- 💻 All of my projects are available at my [**Repo's**](https://github.com/rakibulinux) and some of you can see on [**Replit**](https://replit.com/@rakibulinux).
-
-- 📝 You can check out my 👉 <a href="resume.pdf" alt="Resume" target="_blank"><b>Resume</b></a>
-
-- 💬 Ask me about `HTML, CSS, TailWind CSS, Bootstrap, JavaScript, React JS, Next js, Nest Js, REST APIs, Node JS, Express JS, NoSQL, SQL, MongoDB, PostgreSQL, Prisma, Linux, Ubuntu, and DevOps`.
-
-- 📝 I regularly write Blogs on [**Hashnode**](https://rakibulinux.hashnode.dev/) and [Dev](https://dev.to/rakibulinux)
-
-- 📫 How to reach me <a href="mailto=rakibulinux@gmail.com" target="_blank"><b>rakibulinux@gmail.com</b></a>
-  <a href="https://github.com/rakibulinux" target="blank"><img align="right" width="200" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" alt="Working on Laptop"/></a>
-- ⚡ Interesting fact **During peak hour my productivity increase at the high level**.
-- ⚡ Fun fact **I'm good with people**.
-
-<h2 align="left">🌐 Connect with me on:</h2>
-<p align="left">
-<a href="https://api.whatsapp.com/send?phone=8801983904080&text=Hey!%2C%20Muhammad%2C%20How%20are%20you%3F" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/whatsapp-3.svg" alt="WhatsApp" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/rakibulinux/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="30" width="40" /></a>
-<a href="https://www.facebook.com/rakibulinux" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rakibulinux/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="Instagram" height="30" width="40"/></a>
-<a href="https://twitter.com/rakibulinux" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Twitter" height="30" width="40"/></a>
-<a href="https://portfolio.rakibulinux.com/" target="_blank"><img align="center" src ="https://i.ibb.co/GFMcSJF/www.png" alt="My_Portfolio" width="40" height="40"/></a>
-<a href="https://replit.com/@rakibulinux" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="Replit" height="30" width="30" /></a>
-<a href="https://discord.gg/ReDM2AR3cA" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" alt="Discord" height="30" width="40" /></a>
-</p>
-
-<h2 align="left">👨🏻‍💻 Skills (Languges & Tools):</h2>
-<p align="center">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" width="40" height="30"/> </a> 
-<!-- <a href="https://www.w3schools.com/sass/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" width="40" height="40"/> </a>  -->
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.png" alt="tailwind-css" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vs-code" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="javascript" width="50" height="50"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/> </a> 
-<!-- <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" width="40" height="50"/> </a>
-<a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="40" height="40"/> </a> -->
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="50"/> </a> 
-<!-- <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>  -->
-<!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  -->
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="expressjs" width="50" height="50"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-<!-- </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>  -->
-<!-- <a href="https://simple.wikipedia.org/wiki/C_%28programming_language%29" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="40" height="40"/> </a>  -->
-<!-- <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="python" width="40" height="40"/> </a> -->
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" alt="Canva" width="40" height="50" /> </a>
-<a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/premiere-cc.svg" alt="Adobe-Premiere-Pro-CC" width="40" height="40"/> </a> 
-<a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://nextjs-template.vercel.app/vercel.svg" alt="Vercel" width="50" height="50"/></a>
-</p>
-
-<h3 align="center">✍️ Blogs:</h3>
-<p align="center" ><a align="center" href="https://rakibulinux.hashnode.dev/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/Drs91RS/brand-icon.png" alt="Hashnode" width="50" height="50"/></a> 
-<a align="center" href="https://dev.to/rakibulinux" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/devto.svg" alt="Dev.to" width="50" height="50"/></a>
-</p>
-
-<h3 align="center">✍️ Dev Quotes:</h3>
-<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quotes" /></p>
-
-<h3 align="center">📈 Stats Summary:</h3>
-<p align="center">
-
-<img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulinux&theme=tokyonight&layout=compact" alt="Most Languages Used" />
-<img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=rakibulinux&theme=tokyonight&show_icons=true&hide=%22issues%22" alt="rakibulinux GitHub Stats" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibulinux&theme=highcontrast&hide_border=true" alt="rakibulinux" />
-</p>
-
-<h3 align="center">📈 Visitor's Count:</h3>
- <p align="center"> 
- <img src="https://profile-counter.glitch.me/{rakibulinux}/count.svg" alt="rakibulinux" />
-</p>
-
-<h3 align="center">🏆 Trophies:</h3>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rakibulinux&theme=dracula&no-bg=true&margin-w=10&margin-h=10" alt="rakibulinux Trophies" />
-</p>
-
-<h3 align="center">💰 Support Me</h3>
- <p align="center"> 
-<a href="https://www.buymeacoffee.com/rakibulinux" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy-Me-A-Coffee" width="200" ></a>
-</p>
-
-<h1 align="center">Bye 👋</h1>
-<h3 align="center">Hope you are also doing Well also 👍 my Profile Please feel Free to Contect Me 📞!</h3>
+<h3 align="center">Thanks for visiting 👋</h3>
